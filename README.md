@@ -9,7 +9,7 @@ Certified PHP developer with 1 years of experience in web development. Proficien
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [fareedkhan.fkfk@gmail.com](mailto:fareedkhan.fkfk@gmail.com)
 * 🧠  I'm learning React.js , Vue.js , Livewire
-* 🤝  I'm open to collaborating on Ticktacktoe
+* 🤝  I'm open to collaborating on ChatApp
 * ⚡  I've got a superpower, and it's called programming.
 
 ### Skills
